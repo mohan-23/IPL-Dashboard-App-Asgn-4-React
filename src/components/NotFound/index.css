@@ -1,0 +1,14 @@
+.found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  height: 100vh;
+}
+
+.found-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: 700;
+}

@@ -1,0 +1,45 @@
+.match-container {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.first-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.team {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.font-style {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  font-weight: 600;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  height: 100px;
+  width: 100px;
+}
+
+.second-block {
+  display: flex;
+  flex-direction: column;
+  text-align: end;
+}

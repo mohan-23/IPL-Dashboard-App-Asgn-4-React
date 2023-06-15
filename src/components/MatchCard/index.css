@@ -1,0 +1,41 @@
+.match-item {
+  list-style-type: none;
+  padding-left: 0px;
+  background-color: #1e293b;
+  width: 200px;
+  height: 300px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.item-img {
+  height: 100px;
+  width: 100px;
+}
+
+.item-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.item-style {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.green {
+  color: #18ed66;
+}
+
+.red {
+  color: #e31a1a;
+}
